@@ -1,7 +1,15 @@
 Java Code Styles
 ================
 
-IntelliJ IDEA code style settings for Square's Java and Android projects.
+Code style configuration for IntelliJ.
+
+Based on Square's IntelliJ IDEA code style settings for Java and Android projects.
+
+
+## Android style Guide
+
+Have a look at our [Android Style Guide](https://github.com/Onefootball/android-style-guide) for detailed explanation.
+
 
 
 Installation
@@ -10,7 +18,7 @@ Installation
  * Run the `install.sh` script.
  * Restart IntelliJ if it's running.
  * Open IntelliJ Project Settings -> Code Styles, change the code style for the
-   project to the one you want.
+   project to 'OnefootballAndroid' or 'OnefootballJava'.
 
 
 License

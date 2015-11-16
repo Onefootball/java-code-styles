@@ -1,7 +1,7 @@
 #!/bin/bash
-# Installs Square's IntelliJ configs into your user configs.
+# Installs Onefootball's IntelliJ configs into your user configs.
 
-echo "Installing Square IntelliJ configs..."
+echo "Installing Onefootball's IntelliJ configs..."
 
 CONFIGS="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/configs"
 
@@ -26,4 +26,4 @@ done
 
 echo "Done."
 echo ""
-echo "Restart IntelliJ and/or AndroidStudio, go to preferences, and apply 'Square' or 'SquareAndroid'."
+echo "Restart IntelliJ and/or AndroidStudio, go to preferences, and apply 'Onefootball' or 'OnefootballAndroid'."
