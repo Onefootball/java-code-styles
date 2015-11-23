@@ -6,7 +6,7 @@ Code style configuration for IntelliJ.
 Based on Square's IntelliJ IDEA code style settings for Java and Android projects.
 
 
-## Android style Guide
+## Android style guide
 
 Have a look at our [Android Style Guide](https://github.com/Onefootball/android-style-guide) for detailed explanation.
 
